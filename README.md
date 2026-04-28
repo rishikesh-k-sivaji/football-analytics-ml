@@ -174,11 +174,11 @@ Max depth     : 10
 
 **Confusion Matrix:**
 
-![Confusion Matrix](plots/role_confusion_matrix.png)
+![Confusion Matrix](./plots/role_confusion_matrix.png)
 
 **Feature Importance:**
 
-![Feature Importance](plots/role_feature_importance.png)
+![Feature Importance](./plots/role_feature_importance.png)
 
 **Why 77% accuracy is reasonable:**
 Labels came from clustering, not verified ground truth. Some players
