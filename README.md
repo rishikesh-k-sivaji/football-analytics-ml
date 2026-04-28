@@ -10,7 +10,7 @@ Streamlit dashboard, and a Power BI report for business stakeholder presentation
 
 ---
 
-![App Home](assets/app_home.png)
+![App Home](./assets/app_home.png)
 
 ---
 
@@ -32,7 +32,7 @@ Streamlit dashboard, and a Power BI report for business stakeholder presentation
 ## Project Structure
 
 ```
-football_project2/
+football_analysis/
 │
 ├── assets/                                          ← screenshots for README
 │   ├── app_home.png
@@ -251,7 +251,7 @@ Aligns with real football tactical structure.
 | Erling Haaland | Vardy, Aubameyang, Lewandowski |
 | Virgil van Dijk | Ruben Dias, Thiago Silva |
 
-![Player Similarity Page](assets/similarity_page.png)
+![Player Similarity Page](./assets/similarity_page.png)
 
 ---
 
@@ -262,26 +262,26 @@ Aligns with real football tactical structure.
 **Page 1 — Home**
 Dataset overview, all-time leaders, goals per season by league chart.
 
-![Home Page](assets/app_home.png)
+![Home Page](./assets/app_home.png)
 
 **Page 2 — Forward Role Classifier**
 Browse players by role, model evaluation with confusion matrix and
 feature importance, live role prediction widget.
 
-![Forward Roles Page](assets/forward_roles_page.png)
+![Forward Roles Page](./assets/forward_roles_page.png)
 
 **Page 3 — Player Similarity**
 Search any player, find top 5 similar players, filter by age,
 grouped bar chart comparison of key stats.
 
-![Player Similarity Page](assets/similarity_page.png)
+![Player Similarity Page](./assets/similarity_page.png)
 
 **Page 4 — Player Search**
 Individual career profile, season by season stats table,
 goals and assists bar chart, xG vs actual goals line chart
 with colour fill showing over and underperformance.
 
-![Player Search Page](assets/player_search_page.png)
+![Player Search Page](./assets/player_search_page.png)
 
 ---
 
@@ -302,7 +302,7 @@ using two focused CSV files generated from the cleaned data.
 | Forward Roles | Role distribution donut, avg stats per role bar charts, top players table with conditional formatting, age vs goals scatter |
 | Player Profile | Career KPI cards, goals and assists column chart, xG vs actual goals line chart, season by season table |
 
-![Power BI Report](assets/powerbi_report.png)
+![Power BI Report](./assets/powerbi_report.png)
 
 ---
 
