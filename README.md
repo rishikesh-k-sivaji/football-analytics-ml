@@ -251,7 +251,7 @@ Aligns with real football tactical structure.
 | Erling Haaland | Vardy, Aubameyang, Lewandowski |
 | Virgil van Dijk | Ruben Dias, Thiago Silva |
 
-![Player Similarity Page](./assets/similarity_page1.png)
+![Player Similarity Page](./assets/player_similarity_page1.png)
 
 ---
 
@@ -276,8 +276,8 @@ feature importance, live role prediction widget.
 Search any player, find top 5 similar players, filter by age,
 grouped bar chart comparison of key stats.
 
-![Player Similarity Page](./assets/similarity_page1.png)
-![Player Similarity Page](./assets/similarity_page2.png)
+![Player Similarity Page](./assets/player_similarity_page1.png)
+![Player Similarity Page](./assets/player_similarity_page2.png)
 **Page 4 — Player Search**
 Individual career profile, season by season stats table,
 goals and assists bar chart, xG vs actual goals line chart
@@ -306,7 +306,7 @@ using two focused CSV files generated from the cleaned data.
 | Forward Roles | Role distribution donut, avg stats per role bar charts, top players table with conditional formatting, age vs goals scatter |
 | Player Profile | Career KPI cards, goals and assists column chart, xG vs actual goals line chart, season by season table |
 
-![Power BI Report](./assets/powerbi_report.png)
+![Power BI Report](./assets/power_bi_report.png)
 
 ---
 
