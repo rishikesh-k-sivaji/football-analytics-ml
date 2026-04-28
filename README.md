@@ -10,7 +10,7 @@ Streamlit dashboard, and a Power BI report for business stakeholder presentation
 
 ---
 
-![App Home](./assets/app_home.png)
+![App Home](./assets/app_home1.png)
 
 ---
 
@@ -251,7 +251,7 @@ Aligns with real football tactical structure.
 | Erling Haaland | Vardy, Aubameyang, Lewandowski |
 | Virgil van Dijk | Ruben Dias, Thiago Silva |
 
-![Player Similarity Page](./assets/similarity_page.png)
+![Player Similarity Page](./assets/similarity_page1.png)
 
 ---
 
@@ -262,26 +262,30 @@ Aligns with real football tactical structure.
 **Page 1 — Home**
 Dataset overview, all-time leaders, goals per season by league chart.
 
-![Home Page](./assets/app_home.png)
+![Home Page](./assets/app_home1.png)
+![Home Page](./assets/app_home2.png)
 
 **Page 2 — Forward Role Classifier**
 Browse players by role, model evaluation with confusion matrix and
 feature importance, live role prediction widget.
 
-![Forward Roles Page](./assets/forward_roles_page.png)
+![Forward Roles Page](./assets/forward_roles_page1.png)
+![Forward Roles Page](./assets/forward_roles_page2.png)
 
 **Page 3 — Player Similarity**
 Search any player, find top 5 similar players, filter by age,
 grouped bar chart comparison of key stats.
 
-![Player Similarity Page](./assets/similarity_page.png)
-
+![Player Similarity Page](./assets/similarity_page1.png)
+![Player Similarity Page](./assets/similarity_page2.png)
 **Page 4 — Player Search**
 Individual career profile, season by season stats table,
 goals and assists bar chart, xG vs actual goals line chart
 with colour fill showing over and underperformance.
 
-![Player Search Page](./assets/player_search_page.png)
+![Player Search Page](./assets/player_search_page1.png)
+![Player Search Page](./assets/player_search_page2.png)
+![Player Search Page](./assets/player_search_page3.png)
 
 ---
 
